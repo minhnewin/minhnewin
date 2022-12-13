@@ -5,7 +5,6 @@ Hi there! I'm Minh, a junior computer science major at Seattle University. I am 
 - https://www.linkedin.com/in/minhnewin/
 
 🔭 I’m currently working on ...
-- My github profile, uploading my previous classwork
 - Learning Adobe XD
 
 <!--
