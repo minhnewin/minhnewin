@@ -1,6 +1,12 @@
-### Hi there 👋
-- 📫 How to reach me: minhnewin@gmail.com
-- 😄 Pronouns: he/him
+Hi there! I'm Minh, a junior computer science major at Seattle University. I am interested in game design and UX/UI design.
+
+📫 How to reach me ...
+- email: minhnewin@gmail.com
+- https://www.linkedin.com/in/minhnewin/
+
+🔭 I’m currently working on ...
+- My github profile, uploading my previous classwork
+- Learning Adobe XD
 
 <!--
 **minhnewin/minhnewin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
