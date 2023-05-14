@@ -10,7 +10,7 @@ Hi there! I'm Minh, a junior at Seattle University studying computer science. I 
 - Blender
 
 🔭 I’m currently working on ...
-- Personal Portfolio
+- Personal Portfolio Website
 - GuruGrocers Website (Grocery deals and discounts)
 <!--
 **minhnewin/minhnewin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
