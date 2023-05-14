@@ -1,4 +1,4 @@
-Hi there! I'm Minh, a junior computer science major at Seattle University. I am interested in game design and UX/UI design.
+Hi there! I'm Minh, a junior computer science major at Seattle University. I am interested in game design and development and UX/UI design.
 
 📫 How to reach me ...
 - email: minhnewin@gmail.com
