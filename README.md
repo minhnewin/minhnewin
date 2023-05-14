@@ -6,9 +6,12 @@ Hi there! I'm Minh, a junior at Seattle University studying computer science. I 
 
 🌱 I’m currently learning ...
 - Unity
+- Unreal Engine
+- Blender
 
 🔭 I’m currently working on ...
-- Homework for my classes :)
+- Personal Portfolio
+- GuruGrocers Website (Grocery deals and discounts)
 <!--
 **minhnewin/minhnewin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
