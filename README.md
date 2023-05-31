@@ -3,7 +3,7 @@ Hi there! I'm Minh, a junior at Seattle University studying computer science. I 
 📫 How to reach me ...
 - personal portfolio: [minhnewin.github.io](https://minhnewin.github.io/)
 - email: minhnewin@gmail.com
-- linkedin: linkedin.com/in/minhnewin
+- linkedin: https://www.linkedin.com/in/minhnewin/
 
 🌱 I’m currently learning ...
 - Unity
@@ -13,7 +13,7 @@ Hi there! I'm Minh, a junior at Seattle University studying computer science. I 
 - Photoshop
 
 🔭 I’m currently working on ...
-A 2.5D farming game with Godot Engine
+A 2.5D farming game with Godot Engine https://godotengine.org/
 
 - 👯 I’m looking to collaborate on a 3D RPG game, contact me for inquries (I am available over the summer of 2023)
 <!--
