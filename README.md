@@ -1,9 +1,9 @@
 Hi there! I'm Minh, a junior at Seattle University studying computer science. I am interested in game design and UX/UI design.
 
 📫 How to reach me ...
-- personal portfolio: [minhnewin.github.io](https://minhnewin.github.io/)
 - email: minhnewin@gmail.com
 - linkedin: https://www.linkedin.com/in/minhnewin/
+- personal portfolio: [minhnewin.github.io](https://minhnewin.github.io/)
 
 🌱 I’m currently learning ...
 - Unity
@@ -15,7 +15,7 @@ Hi there! I'm Minh, a junior at Seattle University studying computer science. I 
 🔭 I’m currently working on ...
 A 2.5D farming game with Godot Engine https://godotengine.org/
 
-- 👯 I’m looking to collaborate on a 3D RPG game, contact me for inquries (I am available over the summer of 2023)
+🤝🏼 I’m looking to collaborate on a 3D RPG game, contact me for inquries (I am available over the summer of 2023)
 <!--
 **minhnewin/minhnewin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
