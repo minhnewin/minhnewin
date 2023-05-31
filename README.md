@@ -1,7 +1,7 @@
 Hi there! I'm Minh, a junior at Seattle University studying computer science. I am interested in game design and UX/UI design.
 
 📫 How to reach me ...
-- personal portfolio: minhnewin.github.io
+- personal portfolio: [minhnewin.github.io](https://minhnewin.github.io/)
 - email: minhnewin@gmail.com
 - linkedin: linkedin.com/in/minhnewin
 
