@@ -1,4 +1,4 @@
-Hi there! I'm Minh, a junior at Seattle University studying computer science. I am interested in game design and UX/UI design.
+Hi there! I'm Minh, a recent graduate from Seattle University with a BS in Computer Science and a specialization in business. I am interested in Full Stack Development and E-commerce.
 
 📫 How to reach me:
 - email: minhnewin@gmail.com
@@ -6,15 +6,13 @@ Hi there! I'm Minh, a junior at Seattle University studying computer science. I 
 - personal portfolio: [minhnewin.github.io](https://minhnewin.github.io/)
 
 🌱 I’m currently learning:
-- Unity
-- Godot
-- Unreal Engine
-- Blender
-- Photoshop
+- Javascript
+- Python
+- Swift
 
-🔭 I’m currently working on a 2.5D farming game with Godot Engine https://godotengine.org/
+🔭 I’m currently studying and learning algorithms and methodologies through leetcode!
 
-🤝🏼 I’m looking to collaborate on a 3D RPG game, contact me for inquries (I am available over the summer of 2023)
+
 <!--
 **minhnewin/minhnewin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
